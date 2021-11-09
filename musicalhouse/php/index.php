@@ -87,8 +87,8 @@
                 <li><a href="mobile.html">Mobile</a></li>
         </ul>
 
-        <h1 class="col xl12 center-align">Bienvenido a MusicalHouse!</h1>
-        <h5 class="col xl12 center-align txt">La mejor casa de musica de Argentina</h5>
+        <h1 class="col s12 xl12 center-align">Bienvenido a MusicalHouse!</h1>
+        <h5 class="col s12 xl12 center-align txt">La mejor casa de musica de Argentina</h5>
 
         
     </div>
